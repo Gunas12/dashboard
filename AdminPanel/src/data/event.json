@@ -1,0 +1,251 @@
+[
+    {
+        "id": 1,
+        "name": "Bitrix24 Platforması 1",
+        "start": "2024-04-03T10:30:00",
+        "end": "2024-04-03T11:30:00"
+    },
+    {
+        "id": 2,
+        "name": "Bitrix24 Platforması 2",
+        "start": "2024-04-03T14:30:00",
+        "end": "2024-04-03T15:30:00"
+    },
+    {
+        "id": 3,
+        "name": "İş Birliyi Platformaları 1",
+        "start": "2024-04-04T10:00:00",
+        "end": "2024-04-04T11:00:00"
+    },
+    {
+        "id": 4,
+        "name": "İş Birliyi Platformaları 2",
+        "start": "2024-04-04T14:00:00",
+        "end": "2024-04-04T15:00:00"
+    },
+    {
+        "id": 5,
+        "name": "ERP, CRM 1",
+        "start": "2024-04-05T11:00:00",
+        "end": "2024-04-05T12:00:00"
+    },
+    {
+        "id": 6,
+        "name": "ERP, CRM 2",
+        "start": "2024-04-05T14:00:00",
+        "end": "2024-04-05T15:00:00"
+    },
+    {
+        "id": 7,
+        "name": "Bitrix24-də veb-saytın hazırlanması",
+        "start": "2024-04-08T15:00:00",
+        "end": "2024-04-08T16:00:00"
+    },
+    {
+        "id": 8,
+        "name": "Odoo ERP Platforması 1",
+        "start": "2024-04-09T10:00:00",
+        "end": "2024-04-09T11:00:00"
+    },
+    {
+        "id": 9,
+        "name": "Odoo ERP Platforması 2",
+        "start": "2024-04-09T14:00:00",
+        "end": "2024-04-09T15:00:00"
+    },
+    {
+        "id": 10,
+        "name": "Biznesdə gələcək, gələcəkdə biznes (1)",
+        "start": "2024-04-15T10:00:00",
+        "end": "2024-04-15T11:00:00"
+    },
+    {
+        "id": 11,
+        "name": "Biznesdə gələcək, gələcəkdə biznes (2)",
+        "start": "2024-04-15T15:00:00",
+        "end": "2024-04-15T16:00:00"
+    },
+    {
+        "id": 12,
+        "name": "Odoo (web saytın hazırlanması)",
+        "start": "2024-04-16T15:00:00",
+        "end": "2024-04-16T16:00:00"
+    },
+    {
+        "id": 13,
+        "name": "Odoo (mühasibatlıq)",
+        "start": "2024-04-17T15:00:00",
+        "end": "2024-04-17T16:00:00"
+    },
+    {
+        "id": 14,
+        "name": "Odoo (web saytın hazırlanması) (2)",
+        "start": "2024-04-17T16:00:00",
+        "end": "2024-04-17T17:00:00"
+    },
+    {
+        "id": 15,
+        "name": "Bitrix24 ile CRM",
+        "start": "2024-04-18T16:00:00",
+        "end": "2024-04-18T17:00:00"
+    },
+    {
+        "id": 16,
+        "name": "Avcunuzdakı kelebek (video)",
+        "start": "2024-04-19T10:00:00",
+        "end": "2024-04-19T11:00:00"
+    },
+    {
+        "id": 17,
+        "name": "Version Control System",
+        "start": "2024-04-22T15:30:00",
+        "end": "2024-04-22T16:30:00"
+    },
+    {
+        "id": 18,
+        "name": "Ajandamdan Notlar-1",
+        "start": "2024-04-23T11:00:00",
+        "end": "2024-04-23T12:00:00"
+    },
+    {
+        "id": 19,
+        "name": "Tech Talks-1: Robotics & IoT",
+        "start": "2024-04-23T15:00:00",
+        "end": "2024-04-23T16:00:00"
+    },
+    {
+        "id": 20,
+        "name": "How Great Leaders Inspire Action (V)",
+        "start": "2024-04-25T11:00:00",
+        "end": "2024-04-25T12:00:00"
+    },
+    {
+        "id": 21,
+        "name": "AI in Bitrix24: Copilot",
+        "start": "2024-04-25T16:00:00",
+        "end": "2024-04-25T17:00:00"
+    },
+    {
+        "id": 22,
+        "name": "StoryBox: Hayatımın 4 Kırılma Anı (V)",
+        "start": "2024-04-26T11:00:00",
+        "end": "2024-04-26T12:00:00"
+    },
+    {
+        "id": 23,
+        "name": "Birleşme ve Satın Alma (M&A)",
+        "start": "2024-04-26T15:00:00",
+        "end": "2024-04-26T16:00:00"
+    },
+    {
+        "id": 24,
+        "name": "Öğrencilikden İş Hayatına Geçiş",
+        "start": "2024-04-29T10:00:00",
+        "end": "2024-04-29T11:00:00"
+    },
+    {
+        "id": 25,
+        "name": "Ajandamdan Notlar 2",
+        "start": "2024-04-30T11:00:00",
+        "end": "2024-04-30T12:00:00"
+    },
+    {
+        "id": 26,
+        "name": "Stratejik Yönetim: Senaryo Planlaması",
+        "start": "2024-05-01T14:00:00",
+        "end": "2024-05-01T15:00:00"
+    },
+    {
+        "id": 27,
+        "name": "Fərqli Sektorlarda CRM Tətbiqi",
+        "start": "2024-05-02T16:00:00",
+        "end": "2024-05-02T17:00:00"
+    },
+    {
+        "id": 28,
+        "name": "Tech Talks 2 - Data Science",
+        "start": "2024-05-03T14:00:00",
+        "end": "2024-05-03T15:00:00"
+    },
+    {
+        "id": 29,
+        "name": "Ajandamdan Notlar 3",
+        "start": "2024-05-06T11:00:00",
+        "end": "2024-05-06T12:00:00"
+    },
+    {
+        "id": 30,
+        "name": "Marka Konferansı (video vebinar)",
+        "start": "2024-05-07T11:00:00",
+        "end": "2024-05-07T12:00:00"
+    },
+    {
+        "id": 31,
+        "name": "Tech Talks-3",
+        "start": "2024-05-07T16:00:00",
+        "end": "2024-05-07T17:00:00"
+    },
+    {
+        "id": 32,
+        "name": "Design Patterns",
+        "start": "2024-05-08T11:00:00",
+        "end": "2024-05-08T12:00:00"
+    },
+      {
+        "id": 33,
+        "name": "Etkili CV hazırlama",
+        "start": "2024-05-10T11:00:00",
+        "end": "2024-05-10T12:00:00"
+      },
+      {
+        "id": 34,
+        "name": "10 Hekayə",
+        "start": "2024-05-13T10:30:00",
+        "end": "2024-05-13T11:30:00"
+      },
+      {
+        "id": 35,
+        "name": "Proseslərin idarə olunması",
+        "start": "2024-05-13T16:00:00",
+        "end": "2024-05-13T17:00:00"
+      },
+      {
+        "id": 36,
+        "name": "Etkili CV hazırlama",
+        "start": "2024-05-14T10:30:00",
+        "end": "2024-05-14T11:30:00"
+      },
+      {
+        "id": 37,
+        "name": "Tech Talks-4",
+        "start": "2024-05-14T19:30:00",
+        "end": "2024-05-14T20:30:00"
+      },
+      {
+        "id": 38,
+        "name": "Tapşırıqların müzakirəsi-1",
+        "start": "2024-05-15T10:30:00",
+        "end": "2024-05-15T11:30:00"
+      },
+      {
+        "id": 39,
+        "name": "Tapşırıqların müzakirəsi-2",
+        "start": "2024-05-15T16:00:00",
+        "end": "2024-05-15T17:00:00"
+      },
+      {
+        "id": 40,
+        "name": "Web formlarından istifadə",
+        "start": "2024-05-16T16:00:00",
+        "end": "2024-05-16T17:00:00"
+      },
+      {
+        "id": 41,
+        "name": "Tender",
+        "start": "2024-05-17T16:00:00",
+        "end": "2024-05-17T17:00:00"
+      }
+
+]
+
+
